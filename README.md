@@ -4,7 +4,7 @@ riot games &amp; valorant account and inventory checker
 
 # Install and start [247bots] Valorant Account Checker!
 
-# Sctipt starting 
+# Script starting 
 
 python main.py --combo combo.txt --proxies proxies.txt --threads 10 --region auto --max_retries 3
 
