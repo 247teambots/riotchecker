@@ -40,6 +40,7 @@ Installing Python on Windows and Linux
    pip install -r requirements.txt
 
 **CREDITS** 
+
 [Henrik](https://github.com/Henrik-3/unofficial-valorant-api)
 
 [kingsmurfs](https://github.com/kingsmurfs)
