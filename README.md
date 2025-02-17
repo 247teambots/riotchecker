@@ -4,6 +4,10 @@ riot games &amp; valorant account and inventory checker
 
 # Install and start [247bots] Valorant Account Checker!
 
+# Sctipt starting 
+
+python main.py --combo combo.txt --proxies proxies.txt --threads 10 --region auto --max_retries 3
+
 Installing Python on Windows and Linux
 ---
 ## For Windows
@@ -32,3 +36,6 @@ Installing Python on Windows and Linux
    git clone https://github.com/247teambots/riotchecker.git
    pip install -r requirements.txt
 
+**CREDITS** 
+[Henrik](https://github.com/Henrik-3/unofficial-valorant-api)
+[kingsmurfs](https://github.com/kingsmurfs)
