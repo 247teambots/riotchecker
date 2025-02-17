@@ -26,10 +26,13 @@ Installing Python on Windows and Linux
    apt update
    apt install sudo git
    sudo apt install python3 python3-pip 
+
 1.2 **Fedora**
    sudo dnf install python3 python3-pip git
+
 1.3 **Arch Linux**
    sudo pacman -S python python-pip git
+
 3. **Verify the Installation**
    python3 --version
 4. **Install Requirements**
@@ -38,4 +41,5 @@ Installing Python on Windows and Linux
 
 **CREDITS** 
 [Henrik](https://github.com/Henrik-3/unofficial-valorant-api)
+
 [kingsmurfs](https://github.com/kingsmurfs)
